@@ -90,7 +90,7 @@ Figure. 5 - Theater Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
 
-Next, it can be observed whether outcomes based on goals have a correlation with successful project outcomes. A new table was created to bin projects into fundraising goal ranges, with the number and percentage of "successful", "failed", and "cancelled" projects calculated using a 'COUNTIFS()' formula on the original data set. Figure. 5 below suggests that overall, the higher the goal the higher the sum of failed projects vs. successful and vice versa. The exception to the trend are projects with goals between $35,000 and $44,999, however there is a significant increase in the ratio of failed vs. successful projects with goals above $45,000.
+Next, it can be observed whether outcomes based on goals have a correlation with successful project outcomes. A new table was created to bin projects into fundraising goal ranges, with the number and percentage of "successful", "failed", and "cancelled" projects calculated using a 'COUNTIFS()' formula on the original data set. Figure. 6 below suggests that overall, the higher the goal the higher the sum of failed projects vs. successful and vice versa. The exception to the trend are projects with goals between $35,000 and $44,999, however there is a significant increase in the ratio of failed vs. successful projects with goals above $45,000.
 
 ![Image of Outcomes based on goals](https://github.com/jkenning/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
