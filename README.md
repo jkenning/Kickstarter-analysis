@@ -14,7 +14,7 @@ The findings will be presented to Louise visually to provide essential informati
 
 ### Calculating Supplementary Data Fields
 
-The data and analysis used in this project can be found at [Kickstarter Analysis](https://github.com/jkenning/Kickstarter-analysis/blob/main/data-1-1-3-StarterBook.xlsx). Several calculations were nrequired to get the data set ready for analysis:
+The data and analysis used in this project can be found at [Kickstarter Analysis](https://github.com/jkenning/Kickstarter-analysis/blob/main/data-1-1-3-StarterBook.xlsx). Several calculations were required to get the data set ready for analysis:
 
 1. Conditional formatting was performed to color code the project 'outcome' column based on whether it was "successful", "failed", or "cancelled"
 
