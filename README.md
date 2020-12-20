@@ -53,8 +53,8 @@ Figure. 3 - Play Outcomes - United States
 
 The Descriptive Statistics tab found in [Kickstarter Analysis](https://github.com/jkenning/Kickstarter-analysis/blob/main/data-1-1-3-StarterBook.xlsx) provides some additional information of use:
 
-*Failed campaings typically have significantly higher funding goals than successful campaigns
-*With a projected budget of $10,000, Louise is asking for over twice the mean funding goal of successful projects
+- Failed campaings typically have significantly higher funding goals than successful campaigns
+- With a projected budget of $10,000, Louise is asking for over twice the mean funding goal of successful projects
 
 However, the lower values of pledged funds for failed projects suggest that having a higher funding goal that cannot be reached is not necessarily the only reason a project may fail and there are likely other reasons to account for. Although "Plays have been most successful over the observed timeframe, Louise should consider looking into more information to better determine her plan for success. 
 
