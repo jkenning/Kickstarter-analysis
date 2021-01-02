@@ -14,7 +14,7 @@ The findings will be presented to Louise visually to provide essential informati
 
 ### Calculating Supplementary Data Fields
 
-The data and analysis used in this project can be found at [Kickstarter Analysis](https://github.com/jkenning/Kickstarter-analysis/blob/main/data-1-1-3-StarterBook.xlsx). Several calculations were required to get the data set ready for analysis:
+The data and analysis used in this project can be found at [Kickstarter Analysis](https://github.com/jkenning/Kickstarter-analysis/blob/main/kickstarter_challenge.xlsx). Several calculations were required to get the data set ready for analysis:
 
 1. Conditional formatting was performed to color code the project 'outcome' column based on whether it was "successful", "failed", or "cancelled"
 
@@ -32,7 +32,7 @@ The data and analysis used in this project can be found at [Kickstarter Analysis
 
 ### Campaign Category Performance
 
-The analysis performed in [Kickstarter Analysis](https://github.com/jkenning/Kickstarter-analysis/blob/main/data-1-1-3-StarterBook.xlsx) provides some helpful information for Louise and her campaign preparation: 
+The analysis performed in [Kickstarter Analysis](https://github.com/jkenning/Kickstarter-analysis/blob/main/kickstarter_challenge.xlsx) provides some helpful information for Louise and her campaign preparation: 
 
 A pivot table was created to count how many campaigns were either "successful", "failed", or "cancelled" for each 'category'. The resulting stacked collumn chart in Figure. 1 shows that out of all project categories in the United States, 'Theater' Kickstarters are the most numerous and have had the most successfully funded campaigns.
 
@@ -54,7 +54,7 @@ Figure. 3 - Play Outcomes - United States
 
 ### Descriptive Statistics
 
-The Descriptive Statistics tab found in [Kickstarter Analysis](https://github.com/jkenning/Kickstarter-analysis/blob/main/data-1-1-3-StarterBook.xlsx) provides some additional information of use:
+The Descriptive Statistics tab found in [Kickstarter Analysis](https://github.com/jkenning/Kickstarter-analysis/blob/main/kickstarter_challenge.xlsx) provides some additional information of use:
 
 - Failed campaings typically have significantly higher funding goals than successful campaigns
 - With a projected budget of $10,000, Louise is asking for over twice the mean funding goal of successful projects
